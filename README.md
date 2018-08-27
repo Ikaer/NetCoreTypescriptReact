@@ -6,6 +6,6 @@ When downloaded, an npm install must be done in folder root.
 
     npm install
     
-build will restore libman packages (react/reactdom/requirejs).
+To restore libman packages (react/reactdom/requirejs), right click on libman.json in visual studio then "Restore client-side libraries"
 
 build will create the javascript files from tsx files in wwwroot
