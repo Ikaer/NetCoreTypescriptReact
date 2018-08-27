@@ -1,0 +1,15 @@
+{
+  "name": "netcoretsreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wwwroot/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.4.11",
+    "@types/react-dom": "^16.0.7"
+  }
+}

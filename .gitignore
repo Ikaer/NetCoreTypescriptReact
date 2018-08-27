@@ -4,3 +4,11 @@
 
 /obj
 /.vs
+/NetCoreTSReact/obj
+/NetCoreTSReact/node_modules
+/NetCoreTSReact/bin/Debug/netcoreapp2.1
+/NetCoreTSReact/NetCoreTSReact.csproj.user
+/NetCoreTSReact/package-lock.json
+/NetCoreTSReact/Properties
+/NetCoreTSReact/wwwroot/lib
+/NetCoreTSReact/wwwroot/js

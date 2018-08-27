@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+
+    {
+      "provider": "cdnjs",
+      "library": "react@16.4.2",
+      "destination": "wwwroot/lib/react/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "react-dom@16.4.2",
+      "destination": "wwwroot/lib/react-dom/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "require.js@2.3.5",
+      "destination": "wwwroot/lib/require.js/"
+    }
+  ]
+}
